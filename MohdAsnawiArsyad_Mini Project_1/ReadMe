@@ -1,0 +1,19 @@
+Step to used this app -
+
+1) Please run the db query in db_surabi.sql
+
+2) Please run the junit test case
+
+3) Go to main pakage to run Surabi application.
+
+Note: i have create dummy data for item,menu,menuitem and user table
+
+Admin Login
+
+username: asnawi
+password: abc123
+
+User Login
+
+username: kamal
+password: abc321
